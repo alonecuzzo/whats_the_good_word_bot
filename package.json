@@ -1,0 +1,29 @@
+{
+  "name": "whats_the_good_word_bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for motivational quotes. ",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3",
+    "jsdoc": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonecuzzo/whats_the_good_word_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "forismatic"
+  ],
+  "author": "Anfal Boussayoud & Jabari Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonecuzzo/whats_the_good_word_bot/issues"
+  },
+  "homepage": "https://github.com/alonecuzzo/whats_the_good_word_bot#readme"
+}
